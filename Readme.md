@@ -1,7 +1,7 @@
 # Readme for Course Project of Getting and Cleaning Data course at [coursera.org](https://www.coursera.org/course/getdata)
 #### author: attila.toth86
 
-This document serves as detailed description of how scripts should be used in order to perform the requested analyses on the elected dataset. For detailed code snippets please refer to [CodeBook.md](https://github.com/atibud/datasciencecoursera/CodeBook.md).
+This document serves as detailed description of how scripts should be used in order to perform the requested analyses on the elected dataset. For detailed code snippets please refer to [CodeBook.md](https://github.com/atibud/datasciencecoursera/blob/master/CodeBook.md).
 
 ## Step I - Read in the run_analysis.R script
 
